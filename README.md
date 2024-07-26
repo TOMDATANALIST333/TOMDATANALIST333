@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Tomaz S. de Souza Cruz
+- 👀 I’m interested in Data Science and Quantum Computation
+- 🌱 I’m currently working as Data Analyst
+- 💞️ I’m looking to collaborate on Data Intelligence projects
+- 📫 How to reach me: www.linkedin.com/in/tomaz-silva-de-souza-cruz-82327b266
+- 😄 Pronouns: he/him
